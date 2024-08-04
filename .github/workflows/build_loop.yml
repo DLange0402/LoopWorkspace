@@ -289,7 +289,7 @@ jobs:
           # high_carb_limit \
           # no_auth \
           # override_sens \
-          now_line \
+          # now_line \
           lnl_icon \
           watch_title \
           2hlollipop \
